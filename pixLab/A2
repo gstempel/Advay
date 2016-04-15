@@ -1,0 +1,21 @@
+========================= A2 Questions ========================
+
+1. How can you make pink?
+
+java.awt.Color[r=255,g=51,b=255]
+
+2. How can you make yellow?
+
+java.awt.Color[r=255,g=255,b=51]
+
+3. How can you make purple?
+
+java.awt.Color[r=153,g=0,b=153]
+
+4. How can you make white?
+
+java.awt.Color[r=255,g=255,b=255]
+
+5. How can you make dark gray?
+
+java.awt.Color[r=51,g=51,b=51]
