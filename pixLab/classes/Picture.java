@@ -17,7 +17,7 @@ import java.io.*;
 public class Picture extends SimplePicture
 {
   ///////////////////// constructors //////////////////////////////////
-  
+  //
   /**
    * Constructor that takes no arguments 
    */
