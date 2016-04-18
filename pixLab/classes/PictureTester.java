@@ -7,6 +7,7 @@
  * @author Barbara Ericson 
  */
 //
+//
 public class PictureTester
 {
   /** Method to test zeroBlue */
